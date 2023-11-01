@@ -2,7 +2,7 @@
 
 ***by Dongjie CHEN***
 
-###**Steps**
+### Steps
 
 * Prepare the scRNA-seq data of sepsis and normal control (or your personalized data)
 * Seurat process & cell annotation
@@ -14,6 +14,6 @@
 
 
 
-###Tips
+### Tips
 
 **These code HAVE NOT BEEN tested, please DEBUG by yourself.**
